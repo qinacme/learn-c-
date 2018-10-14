@@ -1,2 +1,2 @@
-# learn-c-
+# learn-cpp
 Repo to learn C++
